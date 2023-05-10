@@ -3,12 +3,12 @@
 <h3 align="center">Веб-разработчик из Омска🇺</h3>
 
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miwist&layout=compact)](https://github.com/miwist/github-readme-stats)
 
 <!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miwist)](https://github.com/miwist/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miwist)](https://github.com/miwist/github-readme-stats)
 <!--
 **Miwist/Miwist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
