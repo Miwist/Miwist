@@ -21,6 +21,8 @@
 <h3 align="center">Данные по коммитам за сутки:</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miwist&theme=solarized_dark)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **Miwist/Miwist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
