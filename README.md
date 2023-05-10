@@ -6,19 +6,19 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miwist&theme=solarized_dark)
 
-<h3 align="center">Статистика языков в коммитах:</h3>
+<h3 align="start">Статистика языков в коммитах:</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miwist&theme=solarized_dark)
 
-<h3 align="center">Статистика языков в репозиториях:</h3>
+<h3 align="start">Статистика языков в репозиториях:</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miwist&theme=solarized_dark)
 
-<h3 align="center">Статистика профиля:</h3>
+<h3 align="start">Статистика профиля:</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miwist&theme=solarized_dark)
 
-<h3 align="center">Данные по коммитам за сутки:</h3>
+<h3 align="start">Данные по коммитам за сутки:</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miwist&theme=solarized_dark)
 
