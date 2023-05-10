@@ -1,8 +1,6 @@
 <h1 align="center">Привет, меня зовут <a href="https://t.me/miwist">Михаил</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Веб-разработчик из Омска🇺</h3>
-
-
+<h3 align="center">Веб-разработчик из Омска</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miwist&theme=solarized_dark)
 
