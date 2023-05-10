@@ -1,6 +1,7 @@
 <h1 align="center">Привет, меня зовут <a href="https://t.me/miwist">Михаил</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Веб-разработчик</h3>
+
 <i>Немного обо мне:</i>
 <p>Я студент в Омгу имени Достоевского, занимаюсь разработкой сайтов
  <b>Frontend:</b>
