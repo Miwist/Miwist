@@ -4,7 +4,7 @@
 
 
 
-<div align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miwist&theme=solarized_dark)</div>
+<h1 align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miwist&theme=solarized_dark)</h1>
 
 Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miwist&theme=solarized_dark)
