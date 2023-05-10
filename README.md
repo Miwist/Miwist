@@ -1,7 +1,12 @@
 <h1 align="center">Привет, меня зовут <a href="https://t.me/miwist">Михаил</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Веб-разработчик из Омска</h3>
-
+<h3 align="center">Веб-разработчик</h3>
+<i>Немного обо мне:</i>
+<p>Я студент в Омгу имени Достоевского, занимаюсь разработкой сайтов
+ <ul>
+   <li> 2</li>
+</ul>
+</p>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miwist&theme=solarized_dark)
 
 <h3 align="start">Статистика языков в коммитах:</h3>
