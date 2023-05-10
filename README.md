@@ -2,18 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Веб-разработчик из Омска🇺</h3>
 
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miwist&layout=compact)](https://github.com/miwist/github-readme-stats)
 
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miwist)](https://github.com/miwist/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miwist)](https://github.com/miwist/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=miwist)
-
-Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miwist&theme=solarized_dark)
+<div align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miwist&theme=solarized_dark)</div>
 
 Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miwist&theme=solarized_dark)
