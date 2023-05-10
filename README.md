@@ -3,10 +3,20 @@
 <h3 align="center">Веб-разработчик</h3>
 <i>Немного обо мне:</i>
 <p>Я студент в Омгу имени Достоевского, занимаюсь разработкой сайтов
+ <b>Frontend:</b>
  <ul>
-   <li> 2</li>
+   <li>Адаптивная кроссбраузерная верстка</li>
+   <li>Javascript/typescript</li>
+   <li>React/react-native</li>
+</ul>
+ <b>Backend:</b>
+ <ul>
+   <li>PHP</li>
+   <li>Node.js</li>
+   <li>PostgreSQL</li>
 </ul>
 </p>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miwist&theme=solarized_dark)
 
 <h3 align="start">Статистика языков в коммитах:</h3>
