@@ -2,7 +2,7 @@
 <h3 align="center">Веб-разработчик</h3>
 
 <i>Немного обо мне:</i>
-<p>Я студент в Омгу имени Достоевского, занимаюсь разработкой сайтов
+<p>Я студент в Омгу имени Достоевского, занимаюсь разработкой сайтов и приложений</p>
  
  <b>Frontend:</b>
  <ul>
@@ -16,7 +16,7 @@
    <li>Node.js</li>
    <li>PostgreSQL</li>
 </ul>
-</p>
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miwist&theme=solarized_dark)
 
