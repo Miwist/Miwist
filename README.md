@@ -1,86 +1,56 @@
-# 👋 Привет, я Михаил (Miwist)  
-### 💻 Fullstack разработчик с опытом в веб-разработке  
+# Михаил Липовка · Fullstack Developer
 
-<h3 align="center"> 
-  <a href="https://t.me/miwist" target="_blank">Telegram</a> • 
-  <a href="https://t.me/miwist_bot" target="_blank">Портфолио</a> • 
-  <a href="mailto:miwist@mail.ru" target="_blank">Email</a>
-</h3>
+Строю веб-приложения end-to-end: от API и БД до UI и интеграций.  
+Фокус — **TypeScript / Node.js / React**, плюс production-опыт с **PHP / Symfony**.
+
+[Telegram](https://t.me/miwist) · [Email](mailto:miwist@mail.ru) · [npm: timeweb-cloud-ai](https://www.npmjs.com/package/timeweb-cloud-ai)
 
 ---
 
-## 🚀 Обо мне  
-Опытный разработчик с полным циклом создания веб-приложений. Специализируюсь на современных технологиях frontend и backend разработки.  
+## Чем полезен
 
-**Ключевые компетенции:**  
-- Полный цикл разработки веб-приложений  
-- Создание сложных интерфейсов и бизнес-логики  
-- Интеграция с внешними сервисами и CRM  
-- Поддержка и оптимизация существующих проектов  
+- Делаю продукты целиком: архитектура, backend, frontend, деплой
+- Интегрирую внешние сервисы и CRM (AmoCRM, Bitrix24 и др.)
+- Пишу поддерживаемый код на TypeScript: API, SDK, боты, админки
+- Довожу до продакшена: Docker, Git, сопровождение и оптимизация
 
----
-
-## 🛠 Технологический стек  
-
-### **Frontend**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-- Адаптивная и кроссбраузерная верстка  
-- SPA/PWA разработка  
-- React Native для мобильных приложений  
-
-### **Backend**  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
-- Разработка API  
-- Работа с базами данных  
-- Микросервисная архитектура  
-
-### **Другие технологии**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Telegram API](https://img.shields.io/badge/-Telegram_API-26A5E4?logo=telegram&logoColor=white)
+> Открыт к полной занятости / контракту. Готов обсудить задачу в Telegram.
 
 ---
 
-## 📊 GitHub статистика  
-<div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miwist&theme=github_dark" width="55%">
-</div>
-<div align="center">
- 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miwist&theme=github_dark" width="35%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miwist&theme=github_dark" width="35%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miwist&theme=github_dark" width="35%">
-</div>
+## Стек
+
+**Основной**  
+`TypeScript` · `Node.js` · `NestJS` · `React` · `PostgreSQL` · `Docker`
+
+**Также в проде**  
+`PHP` · `Symfony` · `Vue` · `React Native` · Telegram Bot API / Mini Apps
 
 ---
 
-## 🎯 Профессиональный опыт  
+## Избранные проекты
 
-### **Основные направления:**  
-- Разработка веб-приложений и сайтов  
-- Создание административных панелей  
-- Разработка Telegram ботов и Mini Apps  
-- Интеграция с CRM (AmoCRM, Bitrix24 и др.)  
-- Техническая поддержка проектов  
+### [timeweb-cloud-ai](https://github.com/Miwist/timeweb-cloud-ai) — npm-клиент для AI API
+TypeScript SDK для Timeweb Cloud AI: вызовы агентов, OpenAI-совместимые `chat/completions`, мультимодальность (изображения / аудио).  
+[npmjs.com/package/timeweb-cloud-ai](https://www.npmjs.com/package/timeweb-cloud-ai)
 
----
+### [telegram-bot-template](https://github.com/Miwist/telegram-bot-template) — шаблон Telegram-бота
+Стартовый каркас для быстрой разработки ботов: структура проекта, базовые сценарии, удобный bootstrap.
 
-## 😄 Интересный факт  
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+### [telegram-bot-calendar-lite](https://github.com/Miwist/telegram-bot-calendar-lite) — календарь для ботов
+Лёгкий календарный UI/логика для Telegram-ботов.
 
 ---
 
-<div align="center">
-  <i>Всегда открыт к интересным проектам и сотрудничеству!</i>
-</div>
+## Как работаю
+
+- Сначала уточняю цель и ограничения, потом архитектуру
+- Предпочитаю ясные API, типы и предсказуемые деплои
+- Умею поддерживать чужой код и аккуратно развивать legacy
+
+---
+
+## Контакты
+
+- Telegram: [@miwist](https://t.me/miwist)
+- Email: [miwist@mail.ru](mailto:miwist@mail.ru)
